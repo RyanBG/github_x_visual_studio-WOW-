@@ -44,6 +44,7 @@ Public Class Form1
 
         PictureBox1.Image = Image.FromFile("C:\Users\20230925\Desktop\awesome\" + strPictures(i))
         Timer1.Enabled = True
+        'shits fire
     End Sub
 
 End Class
