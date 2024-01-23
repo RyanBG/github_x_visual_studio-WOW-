@@ -19,6 +19,7 @@ Public Class Form1
         Timer1.Enabled = True
         PictureBox1.Image = Image.FromFile("C:\Users\20230925\Desktop\awesome\" + strPictures(0))
         AxWindowsMediaPlayer1.URL = "C:\Users\20230925\Downloads\Three Days Grace - I Hate Everything About You (Official Video).mp4"
+        'tryin to see how this github shit works
     End Sub
 
 
