@@ -1,5 +1,5 @@
 ﻿Imports System.Deployment.Application
-'EZZZZ
+'EZZZZZ
 Public Class Form1
     Dim strPictures() As String = {"848082__mystic-tien-fighting_p.jpg", "download (1).jpg",
         "download (2).jpg", "download.jpg", "mysticerlangshen-mystic-tenshinhan-would-it-really-disrupt-v0-elv842bb921b1.jpg",
